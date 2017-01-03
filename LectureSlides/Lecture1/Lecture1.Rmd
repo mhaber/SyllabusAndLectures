@@ -6,7 +6,9 @@ output:
   ioslides_presentation:
     css: https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css
     logo: https://raw.githubusercontent.com/christophergandrud/Hertie_Collab_Data_Science/master/img/HertieCollaborativeDataLogo_v1.png
-  beamer_presentation: default
+  beamer_presentation:
+        theme: "default"
+    colortheme: "beaver"
   slidy_presentation: default
 ---
 
